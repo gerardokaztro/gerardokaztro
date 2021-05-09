@@ -6,7 +6,7 @@
 
 🚀 Te invito a seguirme en mis redes sociales 🚀
 
-🌐 https://bit.ly/gerardokaztro
+🌐 https://bit.ly/awssecuritylatam
 
 📺 https://bit.ly/AWSSecurityLATAM
 
