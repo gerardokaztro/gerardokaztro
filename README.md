@@ -4,18 +4,13 @@
 **gerardokaztro/gerardokaztro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🚀 Te invito a seguirme en mis redes sociales 🚀
-
+Síguenos en todas nuestras redes sociales: 👇🎉
 🌐 https://bit.ly/awssecuritylatam
+🌐 https://bit.ly/comunidad-awsseclatam
+🌐 https://bit.ly/linkedin-awsseclatam
+📺 https://bit.ly/youtube-awsseclatam
+📺 https://bit.ly/twitch-awsseclatam
+🤳 https://bit.ly/instagram-awsseclatam
+✍ https://bit.ly/blogs-awsseclatam
 
-📺 https://bit.ly/AWSSecurityLATAM
-
-✍ https://bit.ly/DevtoGerardokaztro
-
-🌟 https://linkedin.com/in/gerardokaztro
-
-✍ https://bit.ly/MediumGerardokaztro
-
-🐦 https://twitter.com/gerardokaztro
-
-🤳 https://instagram.com/awssecuritylatam
+🤝 No olvides suscribirte, comentar y compartir
