@@ -19,7 +19,7 @@
 
 ## Community
 Join to the *AWS Security LATAM* Spanish Security Specialist Community on Slack. We are 500+ members!
-[![Discord](https://img.shields.io/discord/785146214122651688?color=white&label=Discord%20Community&logo=discord)](https://carlosazaustre.es/discord)
+🗣 [Slack](https://awssecuritycommunity.slack.com/join/shared_invite/zt-1cekzassk-48CNafIjBFiPWkGdIDzfeA/)
 
 
 ## Support
