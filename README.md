@@ -18,13 +18,13 @@
 ## **My Spanish Courses on EDteam**
 | No  | Course Link |
 | --- | ----------- |
-| 1 | [Getting Started with HashiCorp Vault](https://btk.me/v) |
-| 2 | [HashiCorp Vault: The Advanced Course](https://btk.me/va) |
-| 3 | [Integrating HashiCorp Vault with AWS](https://btk.me/vaws) |
-| 4 | [HashiCorp Certified: Vault Operations Professional](https://btk.me/vp) |
-| 5 | [Mastering Terraform Cloud with Hands-On Labs](https://btk.me/tfc) |
-| 6 | [HashiCorp Certified: Terraform Associate Hands-On Lab Course](https://btk.me/tfhol) |
-| 7 | [HashiCorp Certified: Terraform Associate Practice Exam](https://btk.me/tf) |
+| 1 | [Fundamentos de Amazon Web Services](https://ed.team/cursos/aws) |
+| 2 | [Diseña e implementa una arquitectura en AWS](https://ed.team/cursos/arquitectura-aws) |
+| 3 | [Roles y permisos en AWS con IAM y Organizations](https://ed.team/cursos/iam) |
+| 4 | [Amazon S3 (AWS Simple Storage Service)](https://ed.team/cursos/s3) |
+| 5 | [AWS Cloudfront, Route 53 y Certificate Manager](https://ed.team/cursos/cloudfront) |
+| 6 | [Curso avanzado de Amazon Cloudfront](https://ed.team/cursos/tallercloudfront) |
+| 7 | [Fundamentos de Ciberseguridad](https://ed.team/cursos/ciberseguridad) |
 <br>
 
 <h2>Techology Stack and Experience 💻</h2>
