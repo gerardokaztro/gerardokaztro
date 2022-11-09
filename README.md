@@ -6,8 +6,8 @@
 - 🎬 [*Content creator* on Youtube about Security on AWS](https://bit.ly/youtube-awsseclatam) (+1200 subs)
 - 🟣 *AWSSecurityLATAM Streamer* on [Twitch](https://bit.ly/twitch-awsseclatam)
 - 📙 *Author of [AWS re:Security](https://awsresecurity.com) (Since 2022)*
-- 🏅 *[AWS Community Builder for Security & Identity](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=gerardo%2Bcastro&cb-cards.q_operator=AND) (Since 2020)*
 - 🏆 *[AWS User Group Leader](https://aws.amazon.com/developer/community/usergroups/?nc1=h_ls&community-user-groups-cards.sort-by=item.additionalFields.ugName&community-user-groups-cards.sort-order=asc&awsf.location=*all&awsf.category=*all&community-user-groups-cards.q=aws%2Bsecurity%2Blatam&community-user-groups-cards.q_operator=AND) (Since 2021)*
+- 🏅 *[AWS Community Builder for Security & Identity](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=gerardo%2Bcastro&cb-cards.q_operator=AND) (Since 2020)*
 
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/gerardokaztro?style=social)](https://twitter.com/gerardokaztro)
@@ -60,32 +60,17 @@
 <br>
 
 ##  **My Achievements 🏅**
-- [HashiCorp Ambassador 2022](https://www.credly.com/badges/4c5fb8cd-6967-4fb1-941d-5087f5bf540a)
-- [Terraform: Authorized HashiCorp Instructor](https://www.credly.com/badges/76266b60-c8c3-40cd-ba08-eaa0403532a6)
-- [Vault: Authorized HashiCorp Instructor](https://www.credly.com/badges/4db4a411-d59a-433a-810c-988af1f5ea34)
-- [Consul: Authorized HashiCorp Instructor](https://www.credly.com/badges/8c046d17-788d-4fbe-8120-862557beaedd)
-- [HashiCorp Certified: Vault Operations Professional Exam Contributor](https://www.credly.com/badges/19036f50-d7a9-4ee2-9ab6-a3baffbac855)
-- [HashiCorp Certified: Consul Associate Exam Contributor](https://www.credly.com/badges/b2a11e12-48ac-458d-a91b-e4e84f363d80)
-- See all my Achievements here 👉🏻 [Credly](https://www.credly.com/users/bryan-krausen)
+- [AWS Community Builder for Security & Identity](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=gerardo%2Bcastro&cb-cards.q_operator=AND)
+- [AWS User Group Leader](https://aws.amazon.com/developer/community/usergroups/?community-user-groups-cards.sort-by=item.additionalFields.ugName&community-user-groups-cards.sort-order=asc&awsf.location=*all&awsf.category=*all&community-user-groups-cards.q=aws%2Bsecurity%2Blatam&community-user-groups-cards.q_operator=AND)
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/f5b76188-fc92-4176-b63c-ea36929dd062/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/06426d9c-4375-4641-9bd2-4078984affc0/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/1b61c97d-6378-4457-a986-3123a82d0a03/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/72d19916-408b-4f4e-825d-865c5aa77335/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/b871d34d-e2d5-4371-bc02-2c5345fe0df3/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/28e1a22f-6bbd-49ce-8e08-4a675a7fd899/image.png" width="125" height="125">
+  <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="125" height="125">
+  <img src="https://api.badgr.io/public/badges/E0kMPmRhRpOykhTQPcMRxg/image" width="125" height="125">
 </p>
 <br>
 
 ## Profile Views
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=btkrausen" alt="Bryan Krausen" /> <h2>
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=gerardokaztro" alt="Gerardo Castro" /> <h2>
 
 ## Community
 Join to the *AWS Security LATAM* Spanish Security Specialist Community on Slack. We are 500+ members!
-🗣 [Slack](https://awssecuritycommunity.slack.com/join/shared_invite/zt-1cekzassk-48CNafIjBFiPWkGdIDzfeA/)
-
-
-## Support
-
-If you like my work, you can support me as [YouTube Subscriber](https://www.youtube.com/channel/UCmWuXyjXOJOpikS4MHmJAcQ?sub_confirmation=1).
-Also, you can nominate me as [Github Star](https://stars.github.com/nominate/).
+🗣 [Slack](https://bit.ly/slack-awsseclatam)
